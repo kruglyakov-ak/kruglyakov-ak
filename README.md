@@ -18,5 +18,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=graywhite&count_private=true&hide=stars,issues,contribs#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=dar&hide=C#,Handlebars#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=graywhite&hide=C#,Handlebars#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=dar&hide=c%23,Handlebars#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=graywhite&hide=c%23,Handlebars#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
