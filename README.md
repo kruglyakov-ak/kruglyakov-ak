@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🛠 &nbsp;Tech Stack
-<div style="display: flex; aligin-items: center; justify-content: space-beetwen">
+<div style="display: flex; aligin-items: center; justify-content: space-between;">
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"  title="TypeScript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"  title="React"/>
