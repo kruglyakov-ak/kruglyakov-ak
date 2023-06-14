@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Aleksandr
 
 ### 🛠 &nbsp;Tech Stack
 <div style="display: flex;">
@@ -11,5 +11,4 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"  title="Docker"/>
 </div>
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak)](https://github.com/anuraghazra/github-readme-stats)
