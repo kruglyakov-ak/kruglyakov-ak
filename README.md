@@ -11,5 +11,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"  title="Docker"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&include_all_commits=true&count_private=tru#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=graywhite&include_all_commits=true&count_private=tru#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
