@@ -11,4 +11,4 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"  title="Docker"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
