@@ -14,5 +14,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&include_all_commits=true&count_private=true#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
