@@ -12,3 +12,4 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kruglyakov-ak#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/kruglyakov-ak#gh-light-mode-only)
