@@ -13,8 +13,8 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&count_private=true&hide=stars,issues"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=dark&hide=c%23,Handlebars"/>
+<div style="display: flex; flex-wrap: no-wrap: gap: 10px;">
+  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&count_private=true&hide=stars,issues"/>
+   <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=dark&hide=c%23,Handlebars"/>
 </div>
 
