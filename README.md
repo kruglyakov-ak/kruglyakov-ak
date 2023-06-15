@@ -14,7 +14,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=dark&hide=c%23,Handlebars#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kruglyakov-ak&show_icons=true&theme=dark&count_private=true&hide=stars,issues,contributed"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruglyakov-ak&layout=compact&theme=dark&hide=c%23,Handlebars"/>
 </div>
 
