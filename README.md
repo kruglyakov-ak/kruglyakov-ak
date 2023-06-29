@@ -2,7 +2,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 <div style="display: flex;">
-  <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' title="JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" /></a>
+  <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' title="JavaScript" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" /></a>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"  title="TypeScript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"  title="React"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
