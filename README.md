@@ -3,12 +3,12 @@
 ### 🛠 &nbsp;Tech Stack
 <div style="display: flex;">
   <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' title="JavaScript" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" /></a>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"  title="TypeScript"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"  title="React"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" title="HTML"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" title="CSS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"  title="Docker"/>
+    <a href='https://www.typescriptlang.org/' title="TypeScript" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"  /></a>
+   <a href='https://react.dev/' title="React" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"/></a>
+   <a href='https://nextjs.org/' title="Next.js" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/></a>
+   <a href='https://www.w3schools.com/html/default.asp' title="HTML" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" /></a>
+  <a href='https://www.w3schools.com/css/default.asp' title="CSS" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" /></a>
+ <a href='https://www.docker.com/' title="Docker" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"  /></a>
 </div>
 
 
